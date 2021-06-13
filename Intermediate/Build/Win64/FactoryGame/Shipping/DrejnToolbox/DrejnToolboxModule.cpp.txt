@@ -1,0 +1,2 @@
+D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\FactoryGame\Shipping\DrejnToolbox\Definitions.DrejnToolbox.h
+D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Source\DrejnToolbox\Public\DrejnToolboxModule.h

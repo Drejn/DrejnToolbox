@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DrejnToolbox.cpp.obj": [
+			"DrejnToolboxModule.cpp.obj",
+			"TBFactoryConnectionComponent.cpp.obj",
+			"TBBuildableHologram.cpp.obj",
+			"DrejnToolboxLogging.cpp.obj"
+		],
+		"Module.DrejnToolbox.gen.cpp.obj": [
+			"DrejnToolbox.init.gen.cpp.obj",
+			"TBBuildableHologram.gen.cpp.obj",
+			"TBFactoryConnectionComponent.gen.cpp.obj"
+		]
+	}
+}

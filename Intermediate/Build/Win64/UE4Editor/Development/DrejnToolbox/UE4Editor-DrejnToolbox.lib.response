@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DrejnToolbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\UE4Editor\Development\DrejnToolbox\Module.DrejnToolbox.cpp.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\UE4Editor\Development\DrejnToolbox\Module.DrejnToolbox.gen.cpp.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\UE4Editor\Development\DrejnToolbox\Default.rc2.res"
+/OUT:"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\UE4Editor\Development\DrejnToolbox\UE4Editor-DrejnToolbox.lib"
+/INCLUDE:IMPLEMENT_MODULE_DrejnToolbox

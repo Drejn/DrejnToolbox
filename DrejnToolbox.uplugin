@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.8.0",
+	"FriendlyName": "DrejnToolbox",
+	"Description": "Helper Plugin to facilitate Blueprint Mod development",
+	"Category": "Other",
+	"CreatedBy": "Drejn",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SemVersion": "3.8.0",
+	"Modules": [
+	{
+		"Name": "DrejnToolbox",
+		"Type": "Runtime",
+		"LoadingPhase": "Default"
+	}
+	],
+	 "Plugins": [
+		{
+		  "Name": "SML",
+		  "SemVersion": "^3.0.0",
+		  "Enabled": true
+		}
+	  ]
+}

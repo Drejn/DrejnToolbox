@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+/DEF
+/NAME:"FactoryGame-DrejnToolbox-Win64-Shipping.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Intermediate\Build\Win64\FactoryGame\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\FactoryGame\Shipping\DrejnToolbox\Module.DrejnToolbox.cpp.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\FactoryGame\Shipping\DrejnToolbox\Module.DrejnToolbox.gen.cpp.obj"
+"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\FactoryGame\Shipping\DrejnToolbox\Default.rc2.res"
+/OUT:"D:\Documenti\Repos\Dev\SatisfactoryModLoader\Plugins\DrejnToolbox\Intermediate\Build\Win64\FactoryGame\Shipping\DrejnToolbox\FactoryGame-DrejnToolbox-Win64-Shipping.lib"
+/INCLUDE:IMPLEMENT_MODULE_DrejnToolbox
